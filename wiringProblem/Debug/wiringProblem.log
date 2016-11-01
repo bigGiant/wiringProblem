@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  wiringProblem.cpp
+d:\algorithm\wiringproblem\wiringproblem\wiringproblem.cpp(123): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  wiringProblem.vcxproj -> D:\algorithm\wiringProblem\Debug\wiringProblem.exe
